@@ -1,2 +1,4 @@
-# db_Project_2
-(School) Project 2 of Database Systems (INFO20003)
+# INFO20003 2021 Semester 2 Assignment 2
+
+# Project:
+This project focuses on creating SQL statements (MySQL) given question asking for a specific dataset
